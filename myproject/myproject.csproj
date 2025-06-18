@@ -43,8 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="datatypes\datatype1.cs" />
-    <Compile Include="datatypes\datatype2.cs" />
+    <Compile Include="datatypes\stringspractice.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
