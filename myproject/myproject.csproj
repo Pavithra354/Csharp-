@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>OperatorsExample</StartupObject>
+    <StartupObject>TypeConversions</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -50,6 +50,7 @@
     <Compile Include="datatypes\datatype2.cs" />
     <Compile Include="datatypes\OperatorsExample.cs" />
     <Compile Include="datatypes\stringpractice.cs" />
+    <Compile Include="datatypes\TypeConversions.cs" />
     <Compile Include="datatypes\usingStringMethods.cs" />
     <Compile Include="datatypes\vardynamic.cs" />
     <Compile Include="Program.cs" />
