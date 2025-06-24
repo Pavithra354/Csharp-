@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Conditionalstatements</StartupObject>
+    <StartupObject>Conditionalstatements1</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="datatypes\Arrays.cs" />
     <Compile Include="datatypes\Conditionalstatements.cs" />
+    <Compile Include="datatypes\Conditionalstatements1.cs" />
     <Compile Include="datatypes\datatype1.cs" />
     <Compile Include="datatypes\datatype2.cs" />
     <Compile Include="datatypes\OperatorsExample.cs" />
