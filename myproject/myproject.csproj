@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>StudentMethods</StartupObject>
+    <StartupObject>MethodsWithParamsAndReturntype</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -51,12 +51,14 @@
     <Compile Include="datatypes\Conditionalstatements1.cs" />
     <Compile Include="datatypes\datatype1.cs" />
     <Compile Include="datatypes\datatype2.cs" />
+    <Compile Include="datatypes\MethodsWithParamsandReturn.cs" />
     <Compile Include="datatypes\OperatorsExample.cs" />
     <Compile Include="datatypes\stringpractice.cs" />
     <Compile Include="datatypes\TypeConversions.cs" />
     <Compile Include="datatypes\usingStringMethods.cs" />
     <Compile Include="datatypes\vardynamic.cs" />
     <Compile Include="Loop&amp;Methods\Loops1.cs" />
+    <Compile Include="Loop&amp;Methods\StudentMethodsWithParams.cs" />
     <Compile Include="Loop&amp;Methods\UseMethods.cs" />
     <Compile Include="Loop&amp;Methods\UsingStudentMethods.cs" />
     <Compile Include="Program.cs" />
