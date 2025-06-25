@@ -1,6 +1,6 @@
 ﻿using System;
 
-class MethodsWithParamsAndReturn
+class StudentMethodsWithParamsAndReturn
 {
     static void Main()
     {
