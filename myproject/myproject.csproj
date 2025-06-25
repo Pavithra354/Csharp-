@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Loops1</StartupObject>
+    <StartupObject>StudentMethods</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -57,6 +57,8 @@
     <Compile Include="datatypes\usingStringMethods.cs" />
     <Compile Include="datatypes\vardynamic.cs" />
     <Compile Include="Loop&amp;Methods\Loops1.cs" />
+    <Compile Include="Loop&amp;Methods\UseMethods.cs" />
+    <Compile Include="Loop&amp;Methods\UsingStudentMethods.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
